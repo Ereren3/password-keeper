@@ -1,0 +1,20 @@
+{
+  "name": "password-keeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "bcrypt": "^5.1.1",
+    "firebase": "^10.13.0",
+    "firebase-admin": "^12.4.0",
+    "node": "^22.7.0",
+    "save": "^2.9.0"
+  }
+}
